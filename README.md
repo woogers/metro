@@ -8,7 +8,8 @@ Need a developer API key for Metro's API ([from here](https://developer.wmata.co
 
 Used Adafruit's RGB Matrix installer script to get [hzeller's RGB Matrix Library](https://github.com/hzeller/rpi-rgb-led-matrix/) up and running on the Raspberry Pi:
 
-```curl https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/rgb-matrix.sh >rgb-matrix.sh
+```
+curl https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/rgb-matrix.sh >rgb-matrix.sh
 sudo bash rgb-matrix.sh
 ```
 
